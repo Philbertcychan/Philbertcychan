@@ -20,8 +20,13 @@ Aspiring data/product analyst with a finance background and hands-on experience 
 - Exploring product analytics, technical PM skills, and user behavior modeling
 
 ---
+<!--
+![Philbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Philbertcychan&show_icons=true&theme=default)
+---
+-->
 
 ## 📫 Get in Touch
 - [GitHub](https://github.com/Philbertcychan)
 - [Kaggle](https://www.kaggle.com/philbertchan)
-- [Tableau Public](https://public.tableau.com/app/profile/philbert.chan)
+- Email: [philbertcychan@gmail.com](mailto:your.philbertcychan@gmail.com)
+- LinkedIn: [Philbert Chan](https://www.linkedin.com/in/philbert-chan)

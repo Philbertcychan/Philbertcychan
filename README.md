@@ -28,5 +28,5 @@ Aspiring data/product analyst with a finance background and hands-on experience 
 ## 📫 Get in Touch
 - [GitHub](https://github.com/Philbertcychan)
 - [Kaggle](https://www.kaggle.com/philbertchan)
-- Email: [philbertcychan@gmail.com](mailto:your.philbertcychan@gmail.com)
+- Email: [philbertcychan@gmail.com](mailto:philbertcychan@gmail.com)
 - LinkedIn: [Philbert Chan](https://www.linkedin.com/in/philbert-chan)

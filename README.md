@@ -6,11 +6,14 @@ Aspiring data/product analyst with a finance background and hands-on experience 
 
 ## 🛠️ Projects
 
-| Project | Description | Tech Stack | Links |
-|--------|-------------|------------|-------|
-| **E-Commerce Funnel Analysis** | Analyzed 7M+ user events to uncover drop-offs, category conversions, and UX insights | Python, Pandas, Seaborn | [GitHub](https://github.com/Philbertcychan/ecommerce-user-behavior-analysis) · [Kaggle](https://www.kaggle.com/code/philbertchan/e-commerce-product-funnel-analysis) |
-| **Spotify Popularity Classification** | Built a Random Forest model to predict song popularity using audio features | Python, scikit-learn | [GitHub](https://github.com/Philbertcychan/spotify-song-classification) · [Kaggle](https://www.kaggle.com/code/philbertchan/spotify-song-classification-with-random-forest) |
-| **Airbnb NYC Price Analysis** | Tableau dashboard visualizing pricing and booking patterns across boroughs | Tableau, Pandas | [GitHub](https://github.com/Philbertcychan/airbnb-nyc-analysis) · [Tableau](https://public.tableau.com/app/profile/philbert.chan/viz/NYCAirbnbAnalysisRoomTypePricingInsights/PriceLocation) |
+| Project                               | Description                                                                                                                  | Tech Stack                     | Links                                                                                                                                                           |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **E-Commerce Funnel Analysis**        | Analyzed 7M+ user events to uncover drop-offs, category conversions, and UX insights                                          | Python, Pandas, Seaborn        | [GitHub](https://github.com/Philbertcychan/ecommerce-user-behavior-analysis) · [Kaggle](https://www.kaggle.com/code/philbertchan/e-commerce-product-funnel-analysis) |
+| **Spotify Popularity Classification** | Built a Random Forest model to predict song popularity using audio features                                                  | Python, scikit-learn           | [GitHub](https://github.com/Philbertcychan/spotify-song-classification) · [Kaggle](https://www.kaggle.com/code/philbertchan/spotify-song-classification-with-random-forest) |
+| **Airbnb NYC Price Analysis**         | Tableau dashboard visualizing pricing and booking patterns across boroughs                                                   | Tableau, Pandas                | [GitHub](https://github.com/Philbertcychan/airbnb-nyc-analysis) · [Tableau](https://public.tableau.com/app/profile/philbert.chan/viz/NYCAirbnbAnalysisRoomTypePricingInsights/PriceLocation) |
+| **Cohere Strategy Case Study**        | Modeled LLM unit economics, pricing tiers, customer segmentation, and go-to-market analysis for an AI infrastructure company | Python, Pandas, Excel, Jupyter Notebook | [GitHub](https://github.com/Philbertcychan/case-studies/tree/main/cohere_case_study)                                                                                   |
+| **Anthropic Strategy Case Study**     | Analyzed safety-focused differentiation, risk-adjusted forecasting, and pricing strategy for an enterprise LLM provider       | Python, Pandas, Excel, Jupyter Notebook | [GitHub](https://github.com/Philbertcychan/case-studies/tree/main/anthropic)                                                                                         |
+
 
 ---
 

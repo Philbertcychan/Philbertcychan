@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Philbert Chan
 
-Aspiring data/product analyst with a finance background and hands-on experience in Python, SQL, and Tableau. Actively building a portfolio through real-world projects and product-focused analytics.​
-
----
-
 ## 🛠️ Projects
 
 | Project                               | Description                                                                                                                  | Tech Stack                     | Links                                                                                                                                                           |
